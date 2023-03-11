@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://640cd6b56e05bf2ef0b45b57--vocal-concha-defaf9.netlify.app/)
 
 ## My process
 
