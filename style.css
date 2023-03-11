@@ -36,12 +36,11 @@ body {
 }
 .tittle {
   font-weight: 700;
-  clear: both;
-  overflow: auto;
+  margin-bottom: 0.8em;
 }
 .info {
   font-weight: 400;
-  margin-top: 1em;
+  margin-top: 0.2em;
   margin-left: 2.5em;
   color: var(--Grayish-blue);
   font-size: 15px;
